@@ -1,0 +1,8 @@
+# /node_modules/* and /bower_components/* ignored by default
+
+# Ignore built files
+dist/*
+src/styles/*
+public/*
+coverage/*
+

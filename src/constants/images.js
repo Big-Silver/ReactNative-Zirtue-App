@@ -1,0 +1,27 @@
+export const AuthPage1 = require('../assets/images/login_page_1.png');
+export const AuthPage2 = require('../assets/images/login_page_2.png');
+export const AuthPage3 = require('../assets/images/login_page_3.png');
+export const EmailSignInLogo = require('../assets/images/login_phone_1.png');
+export const EmailSignInCodeLogo = require('../assets/images/login_phone_2.png');
+export const ForgotPasswordLogo = require('../assets/images/forgot_password.png');
+export const attachIcon = require('../assets/images/attach.png');
+export const cameraIcon = require('../assets/images/camera.png');
+export const changeAvatar = require('../assets/images/change_avatar.png');
+export const removeAvatar = require('../assets/images/remove_avatar.png');
+export const calendarIcon = require('../assets/images/calendar.png');
+export const PhoneSignInLogo = require('../assets/images/login_phone_1.png');
+export const dollarIcon = require('../assets/images/dollar.svg');
+export const dollarImage = require('../assets/images/dollar.png');
+export const googleDriveImage = require('../assets/images/google_drive.png');
+export const icloudImage = require('../assets/images/icloud.png');
+export const ShapeImage = require('../assets/images/Shape.png');
+export const User1 = require('../assets/images/user1.png');
+export const User2 = require('../assets/images/user2.png');
+export const PhoneImage = require('../assets/images/ic_phone.png');
+export const EmailImage = require('../assets/images/signin_emailIcon.png');
+export const PictureImage = require('../assets/images/picture.png');
+export const FrameImage = require('../assets/images/Rectangle.png');
+export const LockImage = require('../assets/images/ic_lock.png');
+
+export const AuthPage = require('../assets/images/authpage.png');
+export const HomeMark = require('../assets/images/mark.png');
